@@ -9,9 +9,6 @@ venv/
 # Env & secrets
 .env
 
-# Data artifacts
-data/
-
 # Jupyter
 .ipynb_checkpoints/
 
