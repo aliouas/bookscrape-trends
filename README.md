@@ -48,3 +48,10 @@ bookscrape-trends/
 ├── sample.env          # sample environment variables
 ├── README.md
 └── .gitignore
+
+## Dashboard
+<img width="1134" height="633" alt="image" src="https://github.com/user-attachments/assets/caa05760-ee45-43f2-bf09-651b59008dcc" />
+
+<img width="1155" height="644" alt="image" src="https://github.com/user-attachments/assets/d5707d09-a17e-4d1e-9858-566b0199ecd2" />
+
+<img width="1156" height="650" alt="image" src="https://github.com/user-attachments/assets/0c6b458a-6fb2-4d13-aad0-9c57048af80a" />
