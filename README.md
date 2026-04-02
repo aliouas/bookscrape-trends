@@ -46,6 +46,7 @@ bookscrape-trends/
 ├── processing.ipynb    # scraping, cleaning, and transformation workflow
 ├── utils.py            # helper functions
 ├── sample.env          # sample environment variables
+├── requirements.txt
 ├── README.md
 └── .gitignore
 ```
